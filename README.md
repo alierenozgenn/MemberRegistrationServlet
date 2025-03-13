@@ -35,17 +35,17 @@ Bu proje, Java Servlet teknolojisi kullanılarak geliştirilmiş basit bir üye 
 
 ## Proje Yapısı
 
-src/
-├── main/
-│   ├── java/
-│   │   ├── com/
-│   │   │   ├── kayitformu/
-│   │   │   │   ├── KayitFormuServlet.java
-│   │   │   │   └── KayitSonucServlet.java
-│   ├── webapp/
-│   │   ├── WEB-INF/
-│   │   │   └── web.xml
-│   │   └── index.html
+        src/
+        ├── main/
+        │   ├── java/
+        │   │   ├── com/
+        │   │   │   ├── kayitformu/
+        │   │   │   │   ├── KayitFormuServlet.java
+        │   │   │   │   └── KayitSonucServlet.java
+        │   ├── webapp/
+        │   │   ├── WEB-INF/
+        │   │   │   └── web.xml
+        │   │   └── index.html
 
 
 ## Teknolojiler
