@@ -29,7 +29,7 @@ Bu proje, Java Servlet teknolojisi kullanılarak geliştirilmiş basit bir üye 
 
 ## Kullanım
 
-1. Tarayıcınızda `http://localhost:8080/UyeKayitFormu/` adresine gidin
+1. Tarayıcınızda `http://localhost:8080/RegisterFrom/` adresine gidin
 2. Formu doldurun ve "Kaydet" butonuna tıklayın
 3. Girilen bilgiler başka bir sayfada plain text olarak görüntülenecektir
 
@@ -53,7 +53,7 @@ Bu proje, Java Servlet teknolojisi kullanılarak geliştirilmiş basit bir üye 
 - Java Servlet API
 - HTML
 - CSS (Temel stil)
-- Apache Tomcat (veya başka bir servlet container)
+- Apache Tomcat
 
 ## Lisans
 
